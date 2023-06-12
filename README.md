@@ -19,6 +19,12 @@ facial expressions .
 - Technologies: Python, CNN, TensorFlow.
 - References: We have used the MNIST dataset.
 
+### 3. CNN for Digit Recognizer (MNIST, Pytorch)
+
+- Description:A writen-Digit recognizer by a CNN using Pytorch library .
+- Technologies: Python, CNN, Pytorch.
+- References: We have used the MNIST dataset.
+
 ## Getting Started
 
 To get started with these projects, follow the steps below:
