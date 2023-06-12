@@ -13,14 +13,11 @@ facial expressions .
 - Examples: The end of the note book shows a clear exemple.
 - References: We utilized the FER2013 dataset as the foundation for training and evaluating our facial recognition and expression analysis model..
 
-### 2. Project Name
+### 2. CNN for Digit Recognizer (MNIST, Tensorflow)
 
-- Description: Briefly describe the project, highlighting its main objectives and functionalities.
-- Technologies: List the key technologies used in the project (e.g., Python, OpenCV, TensorFlow).
-- Installation: Provide instructions on how to install any dependencies required for the project.
-- Usage: Explain how to use the project, including any required dataset or pre-trained models.
-- Examples: Share a few examples of the project in action, such as input images and their corresponding outputs.
-- References: If you have used any external resources or research papers, acknowledge them here.
+- Description:A writen-Digit recognizer by a CNN using Tensorflow library .
+- Technologies: Python, CNN, TensorFlow.
+- References: We have used the MNIST dataset.
 
 ## Getting Started
 
